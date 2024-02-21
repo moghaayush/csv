@@ -1,0 +1,64 @@
+{
+  "customers": [
+    {
+      "Account_Number": "1111101015923",
+      "customer_name": "Anish",
+      "loans": [
+        {
+          "loan_amount": 300000,
+          "loan_id": "1001",
+          "loan_type": "housing",
+          "year": 2022,
+          "month": "January"
+        },
+        {
+          "loan_amount": 100000,
+          "loan_id": "1110",
+          "loan_type": "Personal",
+          "year": 2022,
+          "month": "March"
+        }
+      ]
+    },
+    {
+      "Account_Number": "1111101010001",
+      "customer_name": "Daniel",
+      "loans": [
+        {
+          "loan_amount": 200000,
+          "loan_id": "1010",
+          "loan_type": "Personal",
+          "year": 2021,
+          "month": "February"
+        },
+        {
+          "loan_amount": 300000,
+          "loan_id": "1000",
+          "loan_type": "Educational",
+          "year": 2021,
+          "month": "April"
+        }
+      ]
+    },
+    {
+      "Account_Number": "1111101011113",
+      "customer_name": "Joe",
+      "loans": [
+        {
+          "loan_amount": 500000,
+          "loan_id": "1331",
+          "loan_type": "Housing",
+          "year": 2023,
+          "month": "July"
+        },
+        {
+          "loan_amount": 150000,
+          "loan_id": "1450",
+          "loan_type": "Personal",
+          "year": 2023,
+          "month": "September"
+        }
+      ]
+    }
+  ]
+}
